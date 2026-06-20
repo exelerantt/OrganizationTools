@@ -7,7 +7,7 @@
 To install these addons, use:
 
 ```bash
-curl -sL https://githubusercontent.com | bash
+curl -sL https://raw.githubusercontent.com/exelerantt/OrganizationTools/main/install.sh | bash
 ```
 
 Next, open a fresh terminal and remove the ones you bad before that.
